@@ -11,7 +11,6 @@ export default function Results(props) {
               <Meaning meaning={meaning}/>
           </div>);
         })}
-        Hello from Results
       </div>
     );
   } else {
