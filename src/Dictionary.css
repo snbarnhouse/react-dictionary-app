@@ -2,6 +2,16 @@
     border: white solid;
     padding: 30px;
     border-radius: 15px;
-    margin: 5px;
     text-align: left;
+    max-width: 60%;
+    display: block;
+    margin: 5px auto;
+}
+
+.Dictionary input {
+    width: 50%;
+    border-radius: 6px;
+    padding: 4px 2px;
+    border: 1px solid white;
+    color: black;
 }
