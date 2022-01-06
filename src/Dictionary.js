@@ -3,7 +3,7 @@ import Results from "./Results";
 import Photos from "./Photos";
 import axios from "axios";
 import "./Dictionary.css";
-import { isCompositeComponent } from "react-dom/cjs/react-dom-test-utils.production.min";
+// import { isCompositeComponent } from "react-dom/cjs/react-dom-test-utils.production.min";
 
 export default function Dictionary (props) {
     let [keyword, setKeyword] = useState(props.defaultKeyword);
