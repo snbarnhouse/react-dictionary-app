@@ -1,9 +1,10 @@
 .Dictionary section {
     border: white solid;
+    background-color: #787C87;
     padding: 30px;
     border-radius: 15px;
     text-align: left;
-    max-width: 60%;
+    max-width: 75%;
     display: block;
     margin: 5px auto;
     box-shadow: 0 10px 20px rgb(0 0 0 / 10%);
