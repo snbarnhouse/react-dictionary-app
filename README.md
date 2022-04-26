@@ -2,7 +2,7 @@
 
 ## Description/Features
 
-A dictionary app that allows the user to look up definitions, synonyms, examples, and pictures of words.
+A dictionary app that allows the user to look up definitions, synonyms, examples, pronunciations, and pictures of words.
 
 ## Tech Stack
 
@@ -15,4 +15,4 @@ GitHub Repository: https://github.com/snbarnhouse/react-dictionary-app
 
 Deployed: https://elegant-jackson-503f32.netlify.app/
 
-![Dictionary App](/src/screenshot-dic.png?raw=true "Dicationary App")
+![Dictionary App](/src/screenshot-dic.png?raw=true "Dictionary App")
