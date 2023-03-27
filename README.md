@@ -13,6 +13,6 @@ This app was created using React, CSS, Bootstrap, the Dictionary API, and the Pi
 
 GitHub Repository: https://github.com/snbarnhouse/react-dictionary-app 
 
-Deployed: https://elegant-jackson-503f32.netlify.app/
+Deployed: https://reactjs-dictionary-app.netlify.app/
 
 ![Dictionary App](/src/screenshot-dic.png?raw=true "Dictionary App")
